@@ -27,3 +27,4 @@ if is_prime(num):
     print(num, "is a prime number.")
 else:
     print(num, "is not a prime number.")
+#esto es la prueba 3 que salio mal de la prueba 2
