@@ -27,3 +27,4 @@ if is_prime(num):
     print(num, "is a prime number.")
 else:
     print(num, "is not a prime number.")
+#esto lo hizo chatgpt ayudaa no se como hacerlo yo solo
